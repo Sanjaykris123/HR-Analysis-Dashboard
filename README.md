@@ -17,8 +17,3 @@ Key Analysis
 * Job Role Analysis
 * Salary Analysis
 * Employee Performance
-Dashboard
-![HR Analysis Dashboard](HR_Dashboard.png)
-
- Project File
-[Download Excel Project](HR_Analysis_Dashboard.xlsx)
