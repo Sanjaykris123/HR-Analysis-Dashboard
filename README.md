@@ -17,5 +17,6 @@ Key Analysis
 * Job Role Analysis
 * Salary Analysis
 * Employee Performance
+
 Project Description:
 Developed an interactive  HR Analytics Dashboard in Microsoft Excel to analyze employee demographics, attrition trends, and workforce performance. Used data cleaning, Pivot Tables, Pivot Charts, KPIs, slicers, and interactive visualizations to generate actionable HR insights.
